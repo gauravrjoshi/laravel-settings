@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\LaravelSettings;
+namespace StatelyWorld\LaravelSettings;
 
 use Illuminate\Support\ServiceProvider;
 
