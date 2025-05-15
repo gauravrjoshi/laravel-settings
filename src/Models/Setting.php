@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace StatelyWorld\LaravelSettings\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
