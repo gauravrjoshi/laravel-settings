@@ -1,0 +1,17 @@
+{
+    "name": "statelyworld/laravel-settings",
+    "description": "A global application settings management package for Laravel, similar to WordPress options",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "StatelyWorld\\LaravelSettings\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "StatelyWorld\\LaravelSettings\\SettingServiceProvider"
+            ]
+        }
+    }
+}
