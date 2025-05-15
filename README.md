@@ -119,4 +119,4 @@ We welcome contributions. Please fork the repository, make changes, and submit a
 
 ## 👨‍💻 Maintainer
 
-- [Your Name](https://github.com/your-profile)
+- [Gaurav Joshi](https://github.com/gauravrjoshi)
