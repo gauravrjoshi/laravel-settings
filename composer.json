@@ -1,7 +1,8 @@
 {
     "name": "statelyworld/laravel-settings",
-    "description": "A global application settings management package for Laravel, similar to WordPress options",
+    "description": "A minimal Laravel package to manage key-value settings. A global application settings management package for Laravel, similar to WordPress options",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "StatelyWorld\\LaravelSettings\\": "src/"
@@ -13,5 +14,9 @@
                 "StatelyWorld\\LaravelSettings\\SettingServiceProvider"
             ]
         }
+    },
+    "require": {
+        "php": ">=7.4",
+        "illuminate/support": "^9.0|^10.0|^11.0"
     }
 }
