@@ -9,7 +9,7 @@ A minimal and reusable Laravel package to store key-value settings in your datab
 Require the package via Composer:
 
 ```bash
-composer require statelyworld/laravel-settings:dev-main
+composer require statelyworld/laravel-settings
 ```
 
 If you encounter the error:
